@@ -6,4 +6,4 @@ The `Control_System.ino` sketch is what I used for this control system. Please f
 
 And here is a wiring diagram of the project:
 
-[Wiring Diagram](Control System - Wiring Diagram.png)
+![Wiring Diagram](Control_System_Wiring_Diagram.png)
